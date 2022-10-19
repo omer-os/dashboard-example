@@ -1,2 +1,8 @@
-"# nextjs-gallery" 
-"# dashboard-example" 
+# dashboard-example
+
+
+
+### using:
+* nextjs
+* material-ui
+* tailwindcss
